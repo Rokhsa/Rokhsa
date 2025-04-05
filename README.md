@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rokhsareh
 - I’m a Data Analyst who interested in Astronomical Data Analysis
-- I’m currently working as a junior Data Analyst in a distributing Company
+- I’m currently working as a Data Analyst in a distributing Company in UAE
 - I’m looking to collaborate on your Project in Data analysis (e.g. cleaning, visualizing, making dashboards)
 - 📫 You can reach me by email
 
